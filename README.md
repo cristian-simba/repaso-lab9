@@ -10,7 +10,7 @@ Repaso de temas del laboratorio 9
 
 ## Authors
 
-- [@Ruizerick26](https://www.github.com/Ruizerick26)
+- [@cristian-simba](https://www.github.com/cristian-simba)
 
 
 ## Capturas
